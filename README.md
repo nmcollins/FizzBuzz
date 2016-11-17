@@ -1,5 +1,5 @@
 # FizzBuzz
-My solution to a common interview programming question.  Show numbers from 1 to 100, but display Buzz for multiples of 3, Fizz for multiples of 5 and FizzBuzz for multiples of both
+My solution to a common interview programming question.  Show numbers from 1 to 100, but display Buzz for multiples of 3, Fizz for multiples of 5 and FizzBuzz for multiples of both.  Output can be seen in OutputFizzBuzz.pdf.  
 
 Main code is in FizzBuzz.cs
 
